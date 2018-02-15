@@ -42,14 +42,16 @@ Probleme (Aufteilung der Gewinne, Haftung)
 - XXX
 
 # Notar
+- Stammkapital
+- Aufteilung
 - Unternehmensgegenstand
-- Vollständiger Name
+- Namensreservierung
 - Adresse
 
 # Kosten
+- Steuerberater
 - Notar
 - Handelsregister
-- Steuerberater
 - Unternehmenskonto (Sparkasse 2.0)
 - IHK
 
@@ -59,7 +61,6 @@ nicht die einzigen Kosten, die man so hat
 - BizSpark
 
 # Gründung
-Notar
 ## Vertrag
 Vertrag, Gesellschaftersatzung, Aufteilung, Stammkaptial
 Gründung, Satzung unterschreiben (Pullover)
