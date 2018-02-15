@@ -7,21 +7,19 @@ Fragerunde (Gründer, Technology Night)
 # Agenda
 
 # Wer sind wir?
-## Firma
 ## Daniel
 ## Lennart
 ## Marius
 Vorstellung (alle 3, Herkunft)
 
-# Was machen wir?
+# B06 IT Solutions
+IT, Startup, Apps
 ## Aimpunch
 Idee (Aimpunch (alter Name), Technology Night)
 ## Andere Produkte
 Weitere Ideen (Pilotentests, etc) -> Lennart
 
 # Warum haben wir eine Firma gegründet?
-## Aufteilung der Gewinne
-## Haftung
 Probleme (Aufteilung der Gewinne, Haftung)
 ## Warum nicht...?
 -> Firma? Gespräche bei Borschbach und Grieche
@@ -29,10 +27,10 @@ Probleme (Aufteilung der Gewinne, Haftung)
 ## Name, Logo
 
 # Umsetzung
-## Business-Plan
-Business-Plan und Finanzierung
 ## Rechtsform
 Rechtsform (Steuerberater, Sparkasse, Gründungsberatung, Klee)
+## Business-Plan
+Business-Plan und Finanzierung
 ## Papierkram
 Adresse, Name 2.0, Unternehmensgegenstand
 
