@@ -35,15 +35,15 @@
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section>
+			<section id="title">
 				<h2>B06 IT Solutions</h2>
 				<h1>Die Abenteuer eines jungen Startups</h1>
 				<h2>Daniel Struck &amp; Marius Mertens</h2>
 			</section>
 
-			<section>
+			<section id="fragerunde">
 				<section>
-					<h1>?</h1>
+					<h1>Wie gründet man eine Firma?</h1>
 				</section>
 
 				<section>
@@ -59,14 +59,14 @@
 				</section>
 			</section>
 
-			<section>
+			<section id="agenda">
 				<h2>Agenda</h2>
 				<ul>
 					<li></li>
 				</ul>
 			</section>
 
-			<section>
+			<section id="vorstellung">
 				<section>
 					<h1>Wer sind wir?</h1>
 				</section>
@@ -84,7 +84,7 @@
 				</section>
 			</section>
 
-			<section>
+			<section id="bo6">
 				<section>
 					<img src="img/B06_Blue_on_Trans.svg" style="max-height: 500px; border: none; box-shadow: none;">
 					<h2>B06 IT Solutions</h2>
@@ -123,7 +123,7 @@
 				</section>
 			</section>
 
-			<section>
+			<section id="ursprung">
 				<section>
 					<h2>Warum haben wir eine Firma gegründet?</h2>
 					<ul>
@@ -151,7 +151,43 @@
 				</section>
 			</section>
 
-			<section>
+			<section id="beratung">
+				<section>
+					<h2>Gründungsberatung @ KSK</h2>
+					<ul>
+						<li>Rechtsform</li>
+						<li>Unternehmenskonto</li>
+						<li>KfW-Kedit</li>
+						<li>Kreditrahmen</li>
+						<li>Businessplan</li>
+						<li class="fragment">Empfehlung für Steuerberater</li>
+					</ul>
+				</section>
+				<section>
+					<h2>Steuerberater</h2>
+					<ul>
+						<li>Rechtsform</li>
+						<li>Stammkapital</li>
+						<li>Empfehlung für Notar</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Businessplan?</h2>
+					<h3 class="fragment">Nein, Danke!</h3>
+				</section>
+
+				<section>
+					<h2>Gründungskredit?</h2>
+					<ul>
+						<li class="fragment">keine geplanten Investitionen</li>
+						<li class="fragment">(geringe) Zinsen</li>
+						<li class="fragment">erfordert Businessplan</li>
+					</ul>
+				</section>
+			</section>
+
+			<section id="rechtsform">
 				<section>
 					<h1>Rechtsform</h1>
 				</section>
@@ -195,20 +231,96 @@
 				</section>
 			</section>
 
-			<section>
+			<section id="notar">
+				<h2>Notar</h2>
+				<ul>
+					<li>Stammkapital</li>
+					<li>Aufteilung</li>
+					<li>Unternehmensgegenstand</li>
+					<li>Namensreservierung</li>
+					<li>Adresse</li>
+				</ul>
+			</section>
+
+			<section id="kosten">
 				<section>
-					<h2>Gründungsberatung @ KSK</h2>
+					<h1>Kosten</h1>
 				</section>
+
 				<section>
-					<h2>Steuerberater</h2>
+					<h2>Investitionen</h2>
+					<h3 class="fragment">0€</h3>
 				</section>
+
 				<section>
-					<h2>Notar</h2>
+					<h2>Gründungskosten</h2>
+					<table>
+						<tbody>
+							<tr class="fragment">
+								<td>Notar + Vertrag</td>
+								<td>830€</td>
+							</tr>
+							<tr class="fragment">
+								<td>Handelsregister</td>
+								<td>170€</td>
+							</tr>
+							<tr class="fragment">
+								<td>Unternehmenskonto</td>
+								<td>132€ p.a.</td>
+							</tr>
+							<tr class="fragment">
+								<td>IHK</td>
+								<td>150€ p.a.</td>
+							</tr>
+							<tr class="fragment">
+								<td>Steuerberater</td>
+								<td>tbd</td>
+							</tr>
+							<tr class="fragment" style="font-weight: bold;">
+								<td>Summe</td>
+								<td>1282€</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<h2>Weitere Kosten</h2>
+					<ul>
+						<li>App Store / Google Play</li>
+						<li>Server</li>
+						<li>Software</li>
+					</ul>
 				</section>
 			</section>
 
 			<section>
-				<h1>Schankedön!</h1>
+				<section>
+					<table>
+						<thead>
+							<tr>
+								<td>Daniel</td>
+								<td>Lennart</td>
+								<td>Marius</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="fragment">
+								<td colspan="3" style="text-align: center">Managing Partner</td>
+							</tr>
+							<tr>
+								<td class="fragment">CTO</td>
+								<td class="fragment">CCO</td>
+								<td class="fragment">CFO</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+			</section>
+
+			<section>
+				<h1>Vielen Dank</h1>
+				<h2>für Eure Aufmerksamkeit</h2>
 			</section>
 		</div>
 	</div>
@@ -221,6 +333,14 @@
 		// - https://github.com/hakimel/reveal.js#configuration
 		// - https://github.com/hakimel/reveal.js#dependencies
 		Reveal.initialize({
+			controls:false,
+			slideNumber: true,
+			mouseWheel: true,
+			history: true,
+			keyboard: {
+				37: 'prev',
+				39: 'next',
+			},
 			dependencies: [
 				{ src: 'plugin/markdown/marked.js' },
 				{ src: 'plugin/markdown/markdown.js' },
