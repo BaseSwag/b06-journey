@@ -1,4 +1,4 @@
-# ?
+# Wie gründet man eine Firma?
 ## Wer hat bereits gegründet?
 ## Wer denkt darüber nach (irgendwann) zu gründen?
 ## Wer war bei der Technology Night?
@@ -26,18 +26,37 @@ Probleme (Aufteilung der Gewinne, Haftung)
 "Wie gründet man eigentlich den Scheiß?", ~Daniel Struck, 2018
 ## Name, Logo
 
-# Umsetzung
-## Rechtsform
-Rechtsform (Steuerberater, Sparkasse, Gründungsberatung, Klee)
-## Business-Plan
-Business-Plan und Finanzierung
-## Papierkram
-Adresse, Name 2.0, Unternehmensgegenstand
+# KSK
+- Rechtsform
+- Unternehmenskonto
+- KfW-Kedit
+- Businessplan
+- Empfehlung für Steuerberater
+
+# Steuerberater
+- Rechtsform
+- Stammkapital
+- Empfehlung für Notar
+
+# Rechtsform
+- XXX
+
+# Notar
+- Unternehmensgegenstand
+- Vollständiger Name
+- Adresse
 
 # Kosten
-Kosten: Notar, Handelsregister, Steuerberater, Unternehmenskonto (Sparkasse 2.0), IHK
-## Server & Software
-BizSpark
+- Notar
+- Handelsregister
+- Steuerberater
+- Unternehmenskonto (Sparkasse 2.0)
+- IHK
+
+## Weitere Kosten
+nicht die einzigen Kosten, die man so hat
+- Server & Software
+- BizSpark
 
 # Gründung
 Notar
