@@ -48,7 +48,7 @@ Probleme (Aufteilung der Gewinne, Haftung)
 - Namensreservierung
 - Adresse
 
-# Kosten
+# Gründungskosten
 - Steuerberater
 - Notar
 - Handelsregister
@@ -57,18 +57,23 @@ Probleme (Aufteilung der Gewinne, Haftung)
 
 ## Weitere Kosten
 nicht die einzigen Kosten, die man so hat
-- Server & Software
+- Server
+- Software
+- App Stores
 - BizSpark
 
 # Gründung
-## Vertrag
-Vertrag, Gesellschaftersatzung, Aufteilung, Stammkaptial
-Gründung, Satzung unterschreiben (Pullover)
+- Vertrag unterschreiben beim Notar
+- Unernehmenskonto eröffnen
+- Stammkapitaleinzahlung
+- Handelsregistereintrag
+- Gewerbeanmeldung
 
 # Post
-Steuerfragebogen
-Gewerbeanmeldung, Fimenschild
-Fake-Rechnungen
+- Handelsregistereintragung
+- Steuerfragebogen
+- Gewerbeanmeldung, Fimenschild
+- Fake-Rechnungen
 
 # Abschluss
 Positionen und Rollen
