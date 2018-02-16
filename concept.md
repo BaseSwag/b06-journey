@@ -48,13 +48,19 @@ Probleme (Aufteilung der Gewinne, Haftung)
 - Namensreservierung
 - Adresse
 
+# Gründung
+- Vertrag unterschreiben beim Notar
+- Unternehmenskonto eröffnen
+- Stammkapitaleinzahlung
+- Handelsregistereintrag
+- Gewerbeanmeldung
+
 # Gründungskosten
 - Steuerberater
 - Notar
 - Handelsregister
 - Unternehmenskonto (Sparkasse 2.0)
 - IHK
-
 ## Weitere Kosten
 nicht die einzigen Kosten, die man so hat
 - Server
@@ -62,21 +68,16 @@ nicht die einzigen Kosten, die man so hat
 - App Stores
 - BizSpark
 
-# Gründung
-- Vertrag unterschreiben beim Notar
-- Unernehmenskonto eröffnen
-- Stammkapitaleinzahlung
-- Handelsregistereintrag
-- Gewerbeanmeldung
-
 # Post
 - Handelsregistereintragung
 - Steuerfragebogen
 - Gewerbeanmeldung, Fimenschild
 - Fake-Rechnungen
+- IHK
 
 # Abschluss
 Positionen und Rollen
 Wallau Entrepreneurship und Unternehmensführung
 Aktueller Status/Stand
 Küche
+Erlaubnis beim Partnerunternehmen
